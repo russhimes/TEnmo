@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="705bfcdb-8cd0-45a4-b001-24989c926178" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wtxqQeWy3fdhL9nz2aX4pN1avX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../russellhimes/module-2/17_Review/API/lecture-final/java/shelter-server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.techelevator.tenmo.dao" />
+      <recent name="com.techelevator.tenmo.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.App" />
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenmoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.TenmoApplication" />
+      <module name="m02-capstone-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in m02-capstone-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcUserTransferDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.tenmo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.dao.JdbcUserTransferDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcUserTransferDaoTest.userTransfer_test_returns_userTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.tenmo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.dao.JdbcUserTransferDaoTest" />
+      <option name="METHOD_NAME" value="userTransfer_test_returns_userTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TenmoApplication" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.JdbcUserTransferDaoTest" />
+        <item itemvalue="JUnit.JdbcUserTransferDaoTest.userTransfer_test_returns_userTransfer" />
+        <item itemvalue="JUnit.All in m02-capstone-server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="705bfcdb-8cd0-45a4-b001-24989c926178" name="Default Changelist" comment="" />
+      <created>1629291878344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629291878344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/tenmo-client/src/main/java/com/techelevator/tenmo/services/UserService.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/tenmo-client/src/main/java/com/techelevator/tenmo/App.java</url>
+          <line>291</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/tenmo-client/src/main/java/com/techelevator/tenmo/App.java</url>
+          <line>292</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.web.util.HierarchicalUriComponents" memberName="queryParams" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
